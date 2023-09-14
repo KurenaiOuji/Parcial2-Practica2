@@ -46,3 +46,15 @@ Esto tambien te lo da la paginade **Git** al crear el repositorio.
 
 Con esto ya tendras ligado todo y podras empezar a subir cambios.
 
+# Agregar Cambios a tu repositorio
+
+Hay 3 pasos que tendras que seguir cada ves que quieras agregar un cambio.
+
+```js
+git add .
+git commit -m "Comentario"
+git push
+```
+Haciendo esto **Git** añadira todos los cambios, subira tus archivos a la nuve con el comentario puesto y se juntara con lo subido al repositorio.
+
+Hay que tener en cuenta que siempre puedes ver tus antiguos **Commits** y descargarlos cuando quieras.
